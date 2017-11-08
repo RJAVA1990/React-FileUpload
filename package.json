@@ -1,6 +1,6 @@
 {
   "name": "cool-fileupload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Upload files async with xhr2 or iframe for IE. Supporting IE8+. Doing well in Tencent.",
   "main": "dist/main.min.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "author": "RJAVA1990<liuxuheng1990@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": "^16.0.0"
   },
   "devDependencies": {
